@@ -1,16 +1,64 @@
 ## Hi there 👋
 
 <!--
-**nuwagabavictor/nuwagabavictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Victor Nuwagaba
 
-Here are some ideas to get you started:
+🚀 Software Developer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹Languages
+   Java | Python | JavaScript
+   
+### 🔹Frameworks
+   Spring Boot | Django | React  
+   
+### 🔹 DevOps
+   Github | Docker | Kubernetes | CI/CD | AWS
+   
+🌍 Passionate about building scalable backend systems
+
+---
+
+## 🧠 Skills
+- **Frontend:** Html, Css, Bootstrap, Javascript, React
+- **Backend:** Java, Spring Boot, Spring Security, JPA, Django
+- **Databases:** MySQL, PostgreSQL, MariaDB
+- **DevOps:** Docker, Docker Compose, GitHub Actions, Kubernetes, AWS
+- **Tools:** Git, Linux, Nginx, Ngrok, Postman, Slack, Intelij 
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Scholar Chapter Management System
+**Tech:** Spring Boot, MySQL, Docker  
+- Role-based access (Admin, Treasurer, Member)
+- RESTful APIs with JWT authentication
+- Dockerized deployment
+
+🔗 Repo: https://github.com/nuwagabavictor/scholar
+
+### 🔹 SMPP Messaging
+**Tech:** Spring Boot, Docker  
+- RESTful APIs with API key authentication
+- Dockerized deployment
+
+🔗 Repo: https://github.com/nuwagabavictor/SMPP
+
+---
+
+### 🔹 EquiGreen Market  (Ecommerce) App
+**Tech:** Angular, Django, REST API  
+- Maintenance reports & image uploads
+- Customer satisfaction metrics
+
+---
+
+## 📊 GitHub Stats
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuwagabavictor&show_icons=true)
+
+---
+
+## 🤝 Connect with Me
+- GitHub: https://github.com/nuwagabavictor
+- LinkedIn: https://linkedin.com/in/victor-nuwagaba-047487248
+

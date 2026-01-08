@@ -52,7 +52,7 @@
 - Customer satisfaction metrics
 
 ---
-
+--!>
 ## 📊 GitHub Stats
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuwagabavictor&show_icons=true)
 

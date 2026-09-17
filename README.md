@@ -4,10 +4,10 @@
 🚀 Software Developer 
 
 ### 🔹Languages
-   Java | Python | JavaScript
+   Java | NodeJs | JavaScript | Kotlin
    
 ### 🔹Frameworks
-   Spring Boot | Django | React  
+   Spring Boot | Express | React  
    
 ### 🔹 DevOps
    Github | Docker | Kubernetes | CI/CD | AWS
@@ -17,36 +17,13 @@
 ---
 
 ## 🧠 Skills
-- **Frontend:** Html, Css, Bootstrap, Javascript, React
-- **Backend:** Java, Spring Boot, Spring Security, JPA, Django
+- **Frontend:** Html, Css, Tailwind, Javascript, React
+- **Backend:** Java, Spring Boot, Spring Security, JPA, ExpressJs
 - **Databases:** MySQL, PostgreSQL, MariaDB
 - **DevOps:** Docker, Docker Compose, GitHub Actions, Kubernetes, AWS
-- **Tools:** Git, Linux, Nginx, Ngrok, Postman, Slack, Intelij 
+- **Tools:** Git, Linux, Nginx, Postman, Docker
 
----
 
-## 📌 Featured Projects
-
-### 🔹 Scholar Chapter Management System
-**Tech:** Spring Boot, MySQL, Docker  
-- Role-based access (Admin, Treasurer, Member)
-- RESTful APIs with JWT authentication
-- Dockerized deployment
-
-🔗 Repo: https://github.com/nuwagabavictor/scholar
-
-### 🔹 SMPP Messaging
-**Tech:** Spring Boot, Docker  
-- RESTful APIs with API key authentication
-- Dockerized deployment
-
-🔗 Repo: https://github.com/nuwagabavictor/SMPP
-
----
-
-### 🔹 EquiGreen Market  (Ecommerce) App
-**Tech:** Angular, Django, REST API  
-- Maintenance reports & image uploads
 - Customer satisfaction metrics
 
 ---
@@ -56,4 +33,5 @@
 ## 🤝 Connect with Me
 - GitHub: https://github.com/nuwagabavictor
 - LinkedIn: https://linkedin.com/in/victor-nuwagaba-047487248
+- portifolio: https://nuwagabavictor.github.io/portifolio
 
